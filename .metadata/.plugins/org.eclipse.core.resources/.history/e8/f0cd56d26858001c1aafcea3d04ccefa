@@ -1,0 +1,16 @@
+package aplication;
+
+import domain.Pessoa;
+
+public class Aplicacao {
+
+	public static void main(String[] args) {
+		
+		Pessoa p1 = new Pessoa(1, "Lucas Goeten", "lucasgoeten@gmail.com");
+		Pessoa p2 = new Pessoa(1, "William Goeten", "williamgoeten@gmail.com");
+		Pessoa p3 = new Pessoa(1, "Edenilson Goeten", "edenilsongoeten@gmail.com");
+		
+		System.out.println(p1);
+	}
+
+}

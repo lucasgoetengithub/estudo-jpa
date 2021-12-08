@@ -1,0 +1,9 @@
+package aplication;
+
+public class AplicacaoGet {
+
+	public static void main(String[] args) {
+		
+	}
+
+}
